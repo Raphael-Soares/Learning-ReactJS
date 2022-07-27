@@ -10,7 +10,7 @@ function Home() {
             </h1>
             <p>Começe a gerenciar seus projetos agora mesmo!</p>
             <LinkButton to="/projeto" text="Criar projeto" />
-            <img src={savings}></img>
+            <img src={savings} alt=""></img>
         </section>
     );
 }
